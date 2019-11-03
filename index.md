@@ -39,3 +39,35 @@ for example:
      https://help.github.com/en/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#tag-not-properly-terminated.
 
 Getting the child to make an edit, see an error, fix the error, commit, see the change, repeat, counts as programming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAZINGA
