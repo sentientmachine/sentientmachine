@@ -3,21 +3,14 @@ Front page for project work demo!
 
 Literal code can be presented using html like `<xmp>code</xmp>` or triple backtick.
 
-```cpp
+
+
+```
 #include<iostream>
 #include<algorithm>
 using namespace std;
-class Foo{
-    public:
-        int num;
-        int other;
-};
 int main(){
-    Foo bar[10] = {{1,5},{9,2},{3,0},{5,7},{1,3},{6,4},{10,8},{0,9},{6,2},{3,5}};
-    std::sort(bar, bar + 10, [](const Foo &x, const Foo &y) {
-        return x.num < y.num;
-    });
-    cout << "done";
+    cout << "Hello World";
 }
 ```
 
