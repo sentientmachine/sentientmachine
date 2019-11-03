@@ -1,9 +1,9 @@
 
 Front page for project work demo!
 
-Literal code can be presented thustly with triple back ticks as delimiters or 4 spaces indentation:
+Literal code can be presented using html like `<xmp>code</xmp>` or triple backtick.
 
-```
+<xmp>
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -19,7 +19,7 @@ int main(){
     });
     cout << "done";
 }
-```
+</xmp>
 
 href Links can be raw html or github's `.md` markdown:
 
