@@ -34,7 +34,7 @@ https://github.com/sentientmachine/sentientmachine/settings
 
 for example: 
 
-     Your site is having problems building: The variable {{1,5} on line 15 in index.md 
+     Your site is having problems building: The variable {1,5} on line 15 in index.md 
      was not properly closed with }}. For more information, see 
      https://help.github.com/en/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#tag-not-properly-terminated.
 
