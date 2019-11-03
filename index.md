@@ -20,13 +20,13 @@ Literal code can be presented thustly with triple back ticks as delimiters or 4 
     }
 
 
-Links can be html or `.md` markdown
+href Links can be raw html or github's `.md` markdown:
 
-<a href="http://sentientmachine.github.io/sentientmachine/whatever.png">http://sentientmachine.github.io/sentientmachine/whatever.png</a>
+<a href="https://github.com/sentientmachine/sentientmachine/blob/master/cpp_image.png">https://github.com/sentientmachine/sentientmachine/blob/master/cpp_image.png</a>
 
-prsent child photograph of project, or screenshot or whatever here:
+Present child's photograph of project, or screenshot or anything here.  
 
-Look what I did!
+Look what I did!  I did a thing and you can see it!
 
 ![Alt text](./cpp_image.png?raw=true "user mouse-hover text ")
 
